@@ -3,7 +3,7 @@ $pageName = 'Accueil';
 require './layout/header.php'; 
 ?>
 
-<main class="md:mx-auto md:p-auto lg:px-28 grid md:grid-cols-2 items-center min-h-min pt-10 pb-10">
+<main class="md:mx-auto md:p-auto lg:px-28 grid grid-cols-1 md:grid-cols-2 items-center min-h-min pt-10 pb-10">
     <div class="lg:col p-4 md:pl-12 lg:pl-20">
         <p class="text-3xl">Bienvenue, je suis <u>Thomas CIMINO</u>,<br></p>
         <p class="pt-4 text-lg">Je suis apprenti Développeur Web Full Stack et j'habite Hauterives (26).

@@ -4,7 +4,7 @@ require './layout/header.php';
 ?>
 
 <main class="min-h-min">
-    <div class="container grid sm:grid-cols-2 mx-auto px-16 lg:px-28 py-20 sm:py-40 items-center">
+    <div class="container grid grid-cols-1 sm:grid-cols-2 mx-auto px-16 lg:px-28 py-20 sm:py-40 items-center">
         <div class="col">
             <h1 class="underline text-3xl font-semibold uppercase sm:pl-11 md:pl-24 lg:pl-44 xl:pl-72 2xl:pl-96 pr-2">Formations</h1>
         </div>

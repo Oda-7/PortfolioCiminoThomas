@@ -4,7 +4,7 @@ require './layout/header.php';
 ?>
 
 <main class="min-h-min">
-    <div class="container grid sm:grid-cols-2 mx-auto px-16 lg:px-28 py-20 sm:py-44 items-center">
+    <div class="container grid grid-cols-1 sm:grid-cols-2 mx-auto px-16 lg:px-28 py-20 sm:py-44 items-center">
         <div class="col">
             <h1 class="underline text-3xl font-semibold uppercase sm:pl-12 md:pl-28 lg:pl-48 xl:pl-72 2xl:pl-96 pr-2">Expériences</h1>
         </div>

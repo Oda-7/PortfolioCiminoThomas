@@ -3,7 +3,7 @@ $pageName = 'Projets';
 require './layout/header.php'; 
 ?>
 
-<main class="min-h-screen py-16 dark:text-white ">
+<main class="min-h-screen py-16 dark:text-white grid">
     <div id="carrousel" class="relative mb-16 mx-1 sm:mx-8 md:mx-32 lg:mx-40 xl:mx-64 overflow-hidden min-h-[24rem] xl:h-[500px] border rounded border-black dark:border-white" data-carousel="static">
         <!-- Carousel wrapper -->
         <div id="carrousel_panorama" class="relative h-full rounded-lg min-h-min flex items-center justify-center mx-auto  duration-500">
