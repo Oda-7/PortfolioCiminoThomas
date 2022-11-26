@@ -9,7 +9,7 @@ require './layout/header.php';
             <h1 class="underline text-3xl font-semibold uppercase sm:pl-6 md:pl-20 lg:pl-40 xl:pl-72 2xl:pl-96 pr-2">Formations</h1>
         </div>
         <div class="col relative">
-            <div class="bg-black dark:bg-white absolute -translate-x-1 translate-y-20 min-[336px]:translate-y-14 min-[458px]:translate-y-7 min-[640px]:translate-y-12 lg:translate-y-7 rounded-full w-2 h-2">
+            <div class="bg-black dark:bg-white absolute -translate-x-1 translate-y-20 min-[336px]:translate-y-12 min-[458px]:translate-y-7 min-[640px]:translate-y-12 lg:translate-y-7 rounded-full w-2 h-2">
             </div>
             <p class="px-4 sm:px-8 translate-y-10 min-[320px]:translate-y-8 min-[458px]:translate-y-5 font-semibold text-lg">Graduate Developpeur Web Full Stack</p>
             <div class="border-l border-black dark:border-white px-4 sm:px-8 pt-8">
