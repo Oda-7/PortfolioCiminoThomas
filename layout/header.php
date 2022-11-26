@@ -1,20 +1,13 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mon Portfolio - <?= $pageName ?></title>
-    <meta name="viewporth" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8"> 
-    <link  href="dist/output.css" rel="stylesheet">
-    <script>
-    if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-        document.documentElement.classList.add('dark');
-    } else {
-        document.documentElement.classList.remove('dark');
-    }
-    </script>
+    <link  href="./dist/output.css" rel="stylesheet">
 </head>
 
-<body class="bg-white dark:bg-black dark:text-white text font-['Audiowide']">
+<body class="bg-white dark:bg-black dark:text-white text font-['Audiowide'] min-h-screen">
 <header class="border-b border-gray-500 dark:border-white rounded-b-3xl shadow-sm shadow-black dark:shadow-white">
     <nav class="container mx-auto md:px-16">
         <div class=" flex flex-wrap justify-between items-center lg:py-2 p-4 mx-auto">

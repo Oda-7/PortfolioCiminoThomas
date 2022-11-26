@@ -9,10 +9,10 @@ require './layout/header.php';
             <h1 class="underline text-3xl font-semibold uppercase sm:pl-11 md:pl-24 lg:pl-44 xl:pl-72 2xl:pl-96 pr-2">Formations</h1>
         </div>
         <div class="col relative">
-            <div class="bg-black dark:bg-white absolute -translate-x-1 translate-y-10 min-[444px]:translate-y-6 min-[640px]:translate-y-10 min-[1024px]:translate-y-6 rounded-full w-2 h-2">
+            <div class="bg-black dark:bg-white absolute -translate-x-1 translate-y-12 min-[458px]:translate-y-8 min-[640px]:translate-y-12 min-[1024px]:translate-y-7 rounded-full w-2 h-2">
             </div>
-            <p class="px-4 sm:px-8 translate-y-4 font-semibold text-lg">Graduate Developpeur Web Full Stack</p>
-            <div class="border-l border-black dark:border-white px-4 sm:px-8 pt-6 ">
+            <p class="px-4 sm:px-8 translate-y-6 font-semibold text-lg">Graduate Developpeur Web Full Stack</p>
+            <div class="border-l border-black dark:border-white px-4 sm:px-8 pt-8 mt-1">
             <p class="pt-2 sm:pt-0">Décembre 2021 - En cours</p>
             <p class="pt-2 sm:pt-0">Distanciel</p>
             <p class="pt-2 sm:pt-0 pb-4 border-b border-black dark:border-white mr-2 lg:mr-20 xl:mr-32">Ecole : Studi </p>

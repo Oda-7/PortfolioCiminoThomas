@@ -171,5 +171,5 @@ require './layout/header.php';
         
     </section>
 </main>
-
+<script src="./carrousel.js"></script>
 <?php require './layout/footer.php'; ?>

@@ -54,8 +54,8 @@
     </div>
 </footer>
 </body>
+
 <script src="./header.js"></script>
-<script src="./carrousel.js"></script>
 <script>
     if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
         document.documentElement.classList.add('dark');
@@ -63,4 +63,5 @@
         document.documentElement.classList.remove('dark');
     }
 </script>
+
 </html>
